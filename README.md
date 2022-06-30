@@ -29,3 +29,24 @@ Urška Sršen and Sando Mur the founders Bellabeat marketing team
 - Data collected from year 2016. Users' daily activity, fitness and sleeping habits, diet and food consumption may have changed since then, hence data may not be timely or relevant.
 - Sample size of 30 female FitBit users is not representative of the entire female population.
 - As data is collected in a survey, hence unable to ascertain the integrity or accuracy of data.
+
+## Is data ROCCC?
+
+A good data source is ROCCC which stands for Reliable, Original, Comprehensive, Current, and Cited.
+
+- Reliable - LOW - Not reliable as it only has 30 respondents
+- Original - LOW - Third party provider (Amazon Mechanical Turk)
+- Comprehensive - MED - Parameters match most of Bellabeat's products' parameters
+- Current - LOW - Data is 6 years old and is not relevant
+- Cited - LOW - Data collected from third party, hence unknown
+- Overall, the dataset is considered bad quality data and it is not recommended to produce business recommendations based on this data.
+
+## Data selection
+
+The following files are selected and copied for analysis.
+
+- dailyActivity_merged.csv
+- sleepDay_merged.csv
+- hourlySteps_merged.csv
+- hourlyCalories_merged.csv
+
