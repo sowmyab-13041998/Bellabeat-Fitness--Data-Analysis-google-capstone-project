@@ -1,5 +1,6 @@
 
 
+
 # Bellabeat Fitness Data Analysis- A google capstone project
 #### This case study is the Capstone Project of Google Data Analytics Professional Certificate.
 
@@ -51,4 +52,7 @@ The following files are selected and copied for analysis.
 - sleepDay_merged.csv
 - hourlySteps_merged.csv
 - hourlyCalories_merged.csv
+- 
+## Data visualization
 
+![bella beat project](https://user-images.githubusercontent.com/107466533/176990719-847a89f0-9e75-4d9f-91fc-3d6708f4a3d6.png)
