@@ -55,6 +55,8 @@ The following files are selected and copied for analysis.
  
 ## Data visualization
 
+##### https://public.tableau.com/app/profile/sowmya.b4460/viz/bellabeatproject_16567362208030/bellabeatproject
+
 ![bella beat project](https://user-images.githubusercontent.com/107466533/176990719-847a89f0-9e75-4d9f-91fc-3d6708f4a3d6.png)
 
 ## Conclusion based on our analysis:
